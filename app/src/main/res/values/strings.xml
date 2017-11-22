@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ABC</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main_z">MainActivity_z</string>
+    <string name="title_activity_main_x">MainActivityX</string>
+    <string name="title_activity_main_m">MainActivityM</string>
+</resources>
